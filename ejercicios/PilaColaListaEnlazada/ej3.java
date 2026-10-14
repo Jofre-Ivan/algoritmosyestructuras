@@ -14,7 +14,7 @@ Comentá el código en español. En el main probá PilaEnlazada<Integer>, PilaEn
 
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Objects;
 

@@ -10,7 +10,7 @@ Comentá el código en español. En el main probá la cola de nombres encolando 
 
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Objects;
 

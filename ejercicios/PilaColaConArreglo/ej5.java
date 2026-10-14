@@ -9,7 +9,7 @@ Para el arreglo interno: en Java no se puede hacer new T[capacidad] por el borra
 Casos límite: push con la pila llena y pop/peek con la pila vacía lanzan una excepción con mensaje claro ("Pila llena" o "Pila vacía"), no devuelven null. Un push de null no se acepta (IllegalArgumentException). Los tipos primitivos no se pueden usar como T, se usan las clases envoltorio como Integer.
 
 Comentá el codigo Hacé un main que pruebe Pila<Integer>, Pila<String> y Pila<Persona>, con apilar hasta llenar, un push de más, desapilar todo y un pop con la pila vacía, mostrando el resultado de cada paso. Agregá un comentario en el main indicando que la línea que intenta guardar un String en una Pila<Integer> no compila, y por qué eso es una ventaja. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 /** Persona sencilla para demostrar que la pila también almacena objetos propios. */
 public class ej5 {

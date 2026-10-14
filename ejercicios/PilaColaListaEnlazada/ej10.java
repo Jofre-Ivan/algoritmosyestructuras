@@ -23,7 +23,7 @@ Otros casos: insertar al inicio y al final en una lista vacía, lista con un sol
 
 Comentá el código en español, explicando por qué se actualizan los enlaces en ese orden. En el main probá ListaDoble<Integer>: lista vacía (imprimir en ambos sentidos y eliminar), insertar al inicio 20 y 10, insertar al final 30, 40 y 50, imprimir en ambos sentidos, eliminar(10) (primero), eliminar(50) (último), eliminar(30) (medio) y eliminar(99) (inexistente), imprimiendo en ambos sentidos después de cada eliminación y mostrando el size, hasta dejar un solo elemento, eliminarlo y verificar que la lista queda vacía. Después probá ListaDoble<String> y ListaDoble<Alumno>, verificando que eliminar encuentre un Alumno creado aparte con el mismo contenido.
 */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Objects;
 

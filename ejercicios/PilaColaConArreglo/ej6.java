@@ -7,7 +7,7 @@ Uso dos índices. front es la posición del primer elemento de la cola, o sea el
 Casos límite: enqueue con la cola llena y dequeue/front con la cola vacía lanzan una excepción con un mensaje claro ("Cola llena" o "Cola vacía"), no devuelven -1, porque -1 puede ser un dato válido. Tiene que funcionar bien cuando los índices dan la vuelta: llenar la cola, sacar algunos elementos, agregar otros y comprobar que se mantiene el orden FIFO.
 
 Comentá el código  explicando para qué sirve cada índice, cómo cambia en cada operación y por qué se usa el módulo. Hacé un main que pruebe: encolar hasta llenar, un enqueue de más, sacar dos elementos, encolar dos más (para que rear dé la vuelta), sacar todo verificando el orden de salida, y un dequeue con la cola vacía. Que muestre front, rear y size después de cada paso. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 public class ej6 {
 	public static void main(String[] args) {

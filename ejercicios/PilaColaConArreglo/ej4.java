@@ -9,7 +9,7 @@ Para el arreglo interno uso una variable top que guarda la posición de la pági
 Casos límite: no se puede volver si hay una sola página en el historial, porque no hay página anterior, y en ese caso tiene que mostrar un mensaje claro y dejar la pila como estaba. Tampoco se puede consultar la actual ni volver con el historial vacío. Si el historial se llena, tiene que avisar con un mensaje en lugar de romperse. No aceptar URLs vacías.
 
 Comentá el codigo   . Hacé un main con un menú por consola con Scanner (visitar página, volver, ver página actual, mostrar historial, salir), que muestre la página actual después de cada operación. Antes del menú, hacé una demostración fija: visitar tres páginas, volver dos veces y verificar que se pasa por las páginas en orden inverso. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

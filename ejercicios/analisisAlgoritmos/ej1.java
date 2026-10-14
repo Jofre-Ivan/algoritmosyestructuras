@@ -4,7 +4,7 @@ menor se guarde en una variable por ejemplo con el nombre vectorMenor.
  necesito que este algortimos este documentado con java docs. 
  decime si es lo mas eficiente o no y explicame porque es eficaz */
 
-package ejercicios.guia1;
+package ejercicios.analisisAlgoritmos;
 
 /**
  * Clase que resuelve el problema de encontrar el valor mínimo de un vector

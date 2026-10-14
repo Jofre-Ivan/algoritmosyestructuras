@@ -9,7 +9,7 @@ Para el arreglo interno uso dos índices. front es la posición de la persona qu
 Casos límite: no se puede agregar una persona si la cola está llena (mensaje "No hay más turnos disponibles") ni atender o consultar si está vacía (mensaje "No hay personas esperando"); en ambos casos el programa no debe romperse. No aceptar nombres vacíos. El número de turno no debe reutilizarse ni reiniciarse cuando se atiende a alguien. Tiene que funcionar bien cuando los índices dan la vuelta (llenar, atender a algunos, agregar más) manteniendo el orden de llegada.
 
 Comentá el código . Hacé un main con un menú por consola con Scanner (agregar persona, atender siguiente, ver quién está primero, ver cola de espera, salir), que muestre un mensaje después de cada operación. Antes del menú, hacé una demostración fija: agregar tres personas, consultar quién está primero, atenderlas y verificar que salen en el mismo orden en que llegaron. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

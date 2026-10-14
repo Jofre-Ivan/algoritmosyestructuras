@@ -19,7 +19,7 @@ Comentá el código en español, y dejá un comentario arriba de la clase explic
 
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 /**
  * Pila LIFO enlazada: el último dato apilado es el primero que se desapila.

@@ -13,7 +13,7 @@ Casos a contemplar: expresión vacía o sin paréntesis (válida), solo "(" o so
 Comentá el código en español explicando cuándo se hace push, cuándo pop y por qué. En el main probá los ejemplos válidos "(2 + 3) * (5 - 1)" y "((a + b) * c)", los inválidos "(2 + 3" y "())(", y los casos límite de arriba, mostrando la expresión y el resultado de cada uno.
 
 */ 
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 /** Verifica el balance de paréntesis usando una pila enlazada propia. */
 public class ej7 {

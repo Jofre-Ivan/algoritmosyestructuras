@@ -16,7 +16,7 @@ Comentá el código en español. En el main hacé una demostración fija: histor
 
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Scanner;
 

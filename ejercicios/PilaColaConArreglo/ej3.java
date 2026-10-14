@@ -5,7 +5,7 @@ Recorro la expresión de izquierda a derecha, carácter por carácter. Cada vez 
 Casos límite: expresión vacía o sin paréntesis (válida), solo "(" o solo ")" (inválida), y un caso como ")(" que tiene la misma cantidad de ambos pero está mal ordenado, por lo que no alcanza con contar. La capacidad de la pila tiene que ser al menos el largo de la expresión.
 
 Comentá el código  explicando cuándo se hace push y cuándo pop, y por qué. Hacé un main que pruebe los dos ejemplos de arriba más los casos límite, mostrando la expresión y el resultado de cada uno, y que además permita ingresar una expresión por teclado con Scanner. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

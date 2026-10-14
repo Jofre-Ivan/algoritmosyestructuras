@@ -11,7 +11,7 @@ Casos límite: enqueue con la cola llena y dequeue/front con la cola vacía lanz
 Después de cada operación quiero que el programa muestre el arreglo posición por posición con los índices, marcando las posiciones libres y los valores de front, rear y size, por ejemplo: "[ 60 | 70 | 30 | 40 | 50 ]  front=2  rear=1  size=5".
 
 Comentá el código  explicando para qué sirve cada índice, cómo se mueve con el módulo y cómo se detecta cola llena o vacía. Hacé un main con una demostración fija con capacidad 5: encolar 10, 20, 30, 40 y 50 hasta llenar, intentar un enqueue de más, desencolar tres veces, encolar 60 y 70 (que ahora sí entran, en las posiciones 0 y 1 que estaban libres, y rear da la vuelta), verificar que la cola vuelve a estar llena con solo 5 elementos, desencolar todo comprobando que el orden de salida es 30, 40, 50, 60, 70, y probar un dequeue con la cola vacía. Que la conclusión final compare con la cola simple, que habría dicho "llena" con 2 elementos. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 /**
  * Demuestra una cola circular: front señala el próximo valor que sale y rear

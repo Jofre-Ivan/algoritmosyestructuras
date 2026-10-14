@@ -7,7 +7,7 @@ Para controlar la pila uso una variable top que guarda la posición del último 
 Casos límite: si hago push con la pila llena o pop/peek con la pila vacía, tiene que lanzar una excepción con un mensaje claro (por ejemplo "Pila llena" o "Pila vacía"), no devolver un valor inventado como -1, porque -1 también puede ser un dato válido.
 
 Comentá el código  explicando qué hace top y por qué empieza en -1. Agregá un main que pruebe: apilar hasta llenar, intentar un push de más, desapilar todo y probar un pop con la pila vacía, mostrando el resultado de cada paso. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 /** Pila LIFO de enteros con capacidad fija, implementada exclusivamente con int[]. */
 class PilaEnteros {

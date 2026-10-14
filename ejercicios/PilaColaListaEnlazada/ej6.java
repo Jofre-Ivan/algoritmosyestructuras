@@ -13,7 +13,7 @@ Casos especiales: atenderSiguiente y consultarSiguiente con la fila vacía muest
 Comentá el código en español. Cliente tiene que tener toString para que imprimirFila muestre algo legible, por ejemplo "Turno 3 - Ana (Apertura de cuenta)". En el main hacé una demostración fija: fila vacía (consultar e imprimir), agregar tres clientes con distintos motivos, consultar quién sigue, imprimir la fila, atenderlos verificando que salen en el mismo orden de llegada, volver a agregar uno y verificar que su turno es el 4, y un atender con la fila vacía. Después agregá un menú por consola con Scanner (agregar cliente, atender siguiente, ver quién sigue, imprimir fila, salir) que muestre un mensaje después de cada operación.
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Scanner;
 

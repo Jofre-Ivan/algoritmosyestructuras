@@ -13,7 +13,7 @@ Casos especiales: imprimirProximo y consultarProximo con la cola vacía muestran
 Comentá el código en español. TrabajoImpresion tiene que tener toString para mostrar algo legible, por ejemplo "informe.pdf - 10 páginas (usuario: ana)". En el main hacé una demostración fija: cola vacía (consultar, mostrar e imprimir capturando el mensaje), agregar tres trabajos con distinta cantidad de páginas (el último, el más largo), consultar el próximo, mostrar los pendientes, imprimirlos verificando que salen en el mismo orden en que se agregaron aunque el último sea el más largo, y volver a agregar uno después de vaciar la cola. Después agregá un menú por consola con Scanner (agregar trabajo, imprimir próximo, ver próximo, mostrar pendientes, salir).
 
 */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Scanner;
 

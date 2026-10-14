@@ -9,7 +9,7 @@ Para el arreglo interno uso dos índices. front es la posición del próximo doc
 Casos límite: no se puede agregar un documento si la cola está llena (mensaje "La cola de impresión está llena") ni imprimir o consultar si está vacía (mensaje "No hay documentos pendientes"); en ambos casos el programa no debe romperse. No aceptar nombres vacíos ni cantidades de páginas menores o iguales a 0. Tiene que funcionar bien cuando los índices dan la vuelta (llenar la cola, imprimir algunos, agregar más) manteniendo el orden de llegada, y el total de páginas pendientes tiene que seguir siendo correcto en ese caso.
 
 Comentá el código . Hacé un main con un menú por consola con Scanner (agregar documento, imprimir siguiente, ver próximo, mostrar cola, ver total de páginas pendientes, salir), que muestre un mensaje después de cada operación. Antes del menú, hacé una demostración fija: agregar tres documentos con distinta cantidad de páginas, mostrar el total pendiente, imprimirlos y verificar que salen en el mismo orden en que se agregaron. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

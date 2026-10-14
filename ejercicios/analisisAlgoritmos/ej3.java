@@ -1,4 +1,4 @@
-package ejercicios.guia1;
+package ejercicios.analisisAlgoritmos;
 
 /**
  * Implementa una búsqueda binaria sobre vectores ordenados de menor a mayor.

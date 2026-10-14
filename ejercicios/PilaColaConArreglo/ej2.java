@@ -9,7 +9,7 @@ Para el arreglo interno uso una variable top que guarda la posición del plato d
 Casos límite: si intento agregar un plato con la torre llena, o retirar/consultar con la torre vacía, tiene que lanzar una excepción con un mensaje claro ("Torre llena" o "No hay platos"), no devolver null.
 
 Comentá el codigo. Hacé un main con un menú simple por consola (agregar, retirar, ver el de arriba, salir) usando Scanner, y que muestre un mensaje después de cada operación. Antes del menú, hacé una demostración fija: apilar 3 platos, consultar el de arriba y retirarlos, verificando que salen en orden inverso al que entraron. */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

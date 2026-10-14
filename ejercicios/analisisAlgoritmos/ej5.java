@@ -1,4 +1,4 @@
-package ejercicios.guia1;
+package ejercicios.analisisAlgoritmos;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -16,7 +16,7 @@ Operaciones: encolar(int dato), desencolar(), frente(), estaVacia(), buscar(int 
 Casos especiales: desencolar y frente con la cola vacía lanzan una excepción con mensaje claro ("Cola vacía"), no devuelven -1. Primer encolar en una cola vacía, cola con un solo elemento (al desencolarla head y tail quedan en null), y encolar de nuevo después de haberla vaciado. No existe "cola llena" porque no tiene capacidad fija. Buscar e imprimir con la cola vacía no deben romperse.
 
 Comentá el código en español. En el main probá: cola vacía (desencolar capturando la excepción), encolar 10, 20 y 30, imprimir, frente (10), buscar(20) y buscar(99), desencolar todo verificando el orden 10, 20, 30, y volver a encolar un valor después de vaciarla. Mostrá el size en cada paso */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 /**
  * Cola FIFO enlazada: head es el frente del que se desencola y tail es el final

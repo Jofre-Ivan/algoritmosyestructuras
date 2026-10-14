@@ -11,7 +11,7 @@ Después de cada operación quiero que se muestre el arreglo completo posición 
 Hacé un main con una demostración fija con capacidad 5: encolar 10, 20, 30, 40 y 50 hasta llenar, desencolar tres veces, mostrar el arreglo con los tres espacios libres al inicio, intentar encolar 60 y verificar que dice "Cola llena" aunque hay solo 2 elementos y 3 lugares libres, y por último desencolar todo y mostrar que, aun vacía, la cola sigue sin poder agregar nada. Al final tiene que imprimir una conclusión que explique qué pasó. Después de la demostración agregá un menú por consola con Scanner (enqueue, dequeue, mostrar arreglo, salir) para probar otras secuencias.
 
 Comentá el código  explicando para qué sirve cada índice y por qué se desperdician posiciones. @file:ej9.java  */
-package ejercicios.guia4;
+package ejercicios.PilaColaConArreglo;
 
 import java.util.Scanner;
 

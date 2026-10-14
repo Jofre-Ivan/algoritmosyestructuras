@@ -10,7 +10,7 @@ Comentá el código en español explicando cuándo se apila y cuándo se desapil
 
 
  */
-package ejercicios.guia6;
+package ejercicios.PilaColaListaEnlazada;
 
 import java.util.Scanner;
 
