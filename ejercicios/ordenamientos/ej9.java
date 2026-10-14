@@ -41,7 +41,7 @@ Al final, una tabla comparativa general de todos los escenarios (filas = escenar
 ## 6. Comentarios que debe incluir el código
 - Al inicio de la clase: qué compara el programa y la complejidad de cada algoritmo (mejor y peor caso).
 - Dentro de cada algoritmo: un */
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.util.Arrays;
 import java.util.Random;

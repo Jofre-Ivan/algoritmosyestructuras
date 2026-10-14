@@ -1,4 +1,4 @@
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 /*implementar en java dos metodos una que sea con el algoritmo bubble sort y otra con el selection sort, 
 comparando con un mismo vector aleatorio cuantas comparaciones se hicieron que ventajas y desventajas tienen,
  su complejidad, peor caso, mejor caso, promedio caso */

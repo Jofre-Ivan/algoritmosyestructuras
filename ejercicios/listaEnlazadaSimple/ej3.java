@@ -7,7 +7,8 @@ Primero valido: si posicion < 0 o posicion >= size, lanzo una IndexOutOfBoundsEx
 Casos a contemplar: lista vacía, posición 0 (el head), última posición (size - 1), posición del medio, posición igual a size y posición negativa.
 
 Comentá el código  En el main armá la lista 10 -> 20 -> 30 -> 40 y probá obtener(0), obtener(2) y obtener(3), mostrando el resultado, y probá obtener(4), obtener(-1) y obtener sobre una lista vacía capturando la excepción e imprimiendo el mensaje. */
-package ejercicios.guia5;
+
+package ejercicios.listaEnlazadaSimple;
 
 public class ej3 {
 	private static class Nodo {

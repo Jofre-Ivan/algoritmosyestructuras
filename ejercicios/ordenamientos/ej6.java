@@ -3,8 +3,7 @@ el programa debe mostrar el pivote elegido,
 los dos subarrays el derecho y el izquierdo
  y el arreglo final ordenado relacionalo con 
  divides y venceras */
-package ejercicios.guia3;
-
+package ejercicios.ordenamientos;
 import java.util.Arrays;
 
 /**

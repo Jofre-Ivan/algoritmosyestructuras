@@ -1,4 +1,4 @@
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.text.Collator;
 import java.util.Arrays;

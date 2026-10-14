@@ -41,7 +41,7 @@ Cantidad de comparaciones realizadas por MergeSort.
 - Prueba de escala: generar 10000 jugadores con puntajes aleatorios (semilla fija en Random), ordenarlos y verificar sin imprimir el ranking completo (solo los 5 primeros y el resultado de la verificación).
 
  */
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.util.Arrays;
 import java.util.Comparator;

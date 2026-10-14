@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 
 /**
  Quiero implementar en Java una función recursiva que calcule la multiplicación de dos números enteros sin usar el operador `*`.

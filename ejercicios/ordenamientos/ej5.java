@@ -3,7 +3,7 @@
   es de 6 el segundo es de 3 y asi hasta llegar
    al caso de un insertion sort y explica claramente 
    porque shell sort mejora a insertion sort */
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.util.Arrays;
 

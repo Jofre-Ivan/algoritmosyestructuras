@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 
 /*Quiero implementar en Java una función recursiva que calcule la potencia `base^exponente` sin usar `Math.pow`.
 

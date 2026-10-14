@@ -16,7 +16,7 @@ Comentá el código en español. En el main armá la lista 10 -> 20 -> 30 -> 40 
 
 
 */ 
-package ejercicios.guia5;
+package ejercicios.listaEnlazadaSimple;
 
 public class ej5 {
 	private static class Nodo {

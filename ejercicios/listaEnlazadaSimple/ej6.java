@@ -13,7 +13,7 @@ Casos a contemplar: lista vacía, lista de un solo elemento (eliminar la posici�
 Comentá el código en español. En el main armá la lista 10 -> 20 -> 30 -> 40 -> 50 y probá, imprimiendo después de cada paso con el size: eliminarEnPosicion(0), eliminarEnPosicion(1), eliminarEnPosicion(2) (el último en ese momento), hasta dejar un solo elemento y después vaciarla. Probá también las posiciones inválidas (la lista ya vacía, 5 y -1) capturando la excepción e imprimiendo el mensaje.
 
 */
-package ejercicios.guia5;
+package ejercicios.listaEnlazadaSimple;
 
 public class ej6 {
 	private static class Nodo {

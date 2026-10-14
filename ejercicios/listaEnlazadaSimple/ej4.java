@@ -18,7 +18,8 @@ Casos a contemplar: lista vacía con posición 0, inicio, medio, final (posicion
 Comentá el código . En el main partí de la lista vacía e insertá: (10, 0), (30, 1), (20, 1), (5, 0), (40, 4), imprimiendo después de cada paso. Tiene que quedar 5 -> 10 -> 20 -> 30 -> 40 -> null con size 5. Después probá posiciones 6 y -1 capturando la excepción e imprimiendo el mensaje.
 
 */ 
-package ejercicios.guia5;
+
+package ejercicios.listaEnlazadaSimple;
 
 public class ej4 {
 	private static class Nodo {

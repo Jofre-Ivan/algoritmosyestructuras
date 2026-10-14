@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que imprima un conteo regresivo desde `n` hasta 0.
 
 Este problema puede resolverse recursivamente porque un conteo desde `n` hasta 0 consiste en imprimir `n` y luego hacer el conteo desde `n - 1` hasta 0, que es el mismo problema con un valor más chico. Por ejemplo, el conteo desde 3 es: imprimir 3 y luego contar desde 2.

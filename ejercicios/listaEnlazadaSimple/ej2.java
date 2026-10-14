@@ -7,7 +7,8 @@ La búsqueda tiene que ser secuencial porque en una lista enlazada los nodos no 
 Casos a contemplar: lista vacía (devuelve false sin romperse, porque head es null), dato en el primer nodo, en el último, en el medio, dato que no existe y dato repetido (devuelve true al encontrar la primera aparición).
 
 Comentá el código en español. En el main armá la lista 10 -> 20 -> 30 -> 40 y probá buscar(10), buscar(30), buscar(40), buscar(99) y buscar sobre una lista vacía, mostrando el resultado de cada uno. */
-package ejercicios.guia5;
+
+package ejercicios.listaEnlazadaSimple;
 
 public class ej2 {
 	public static void main(String[] args) {

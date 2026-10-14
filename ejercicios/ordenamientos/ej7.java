@@ -25,7 +25,7 @@ elegir el primer elemento como pivote no siempre es buena idea, porque el rendim
 
 
  */
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.util.Arrays;
 import java.util.Random;

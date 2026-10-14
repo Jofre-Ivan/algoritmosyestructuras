@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que busque un número dentro de un arreglo de enteros, sin usar ciclos.
 
 Este problema puede resolverse recursivamente porque buscar un valor en un arreglo equivale a revisar la posición actual y, si ahí no está, buscar el mismo valor en el resto del arreglo. Para no copiar el arreglo, el "resto" se representa con un índice que avanza. Es decir, `buscar(arreglo, valor, indice)` revisa `arreglo[indice]` y, si no coincide, delega en `buscar(arreglo, valor, indice + 1)`.

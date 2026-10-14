@@ -10,7 +10,8 @@ Lo que se mantiene igual: la estructura de nodos y referencias, head y size, los
 Comentá el código en español. En el main probá ListaEnlazada<Integer> (por ejemplo 10, 20, 30), ListaEnlazada<String> ("a", "b", "c") y ListaEnlazada<Alumno> con tres alumnos, ejecutando en cada una insertar, imprimir, buscar, eliminar, modificar, contarOcurrencias e invertir. Verificá especialmente que buscar y eliminar encuentren un Alumno creado aparte pero con el mismo contenido (new Alumno("Ana", 101)), que es lo que prueba que se usa equals. Agregá un comentario en el main indicando que guardar un String en una ListaEnlazada<Integer> no compila, y por qué es una ventaja.
 ademas este mismo promp todo completo agregalo como comentario al principio del codigop orfavor
 */
-package ejercicios.guia5;
+
+package ejercicios.listaEnlazadaSimple;
 
 import java.util.Objects;
 

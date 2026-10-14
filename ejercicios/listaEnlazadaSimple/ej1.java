@@ -14,7 +14,7 @@ Comentá el código en español. En el main probá la lista vacía, insertar al 
 Ajustes realizados luego de la primera respuesta de OpenCode:
 ...
 */ 
-package ejercicios.guia5;
+package ejercicios.listaEnlazadaSimple;
 
 public class ej1 {
     public static void main(String[] args) {

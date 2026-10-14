@@ -2,7 +2,8 @@
 los primeros N numeros, desde N hasta 1, el caso mas simple es cuando N vale 1(sum(1)=1), el caso recursivo  
 suma(n) debe pensarse como n + suma(n-1) porque va sumando y llamandose a si misma hasta el caso base que seria cuando n sea 0, en ese caso la funcion recursiva deberia terminar y ejecutar la pila de llamadas, 
 para validar que funcione vamos a hacer una prueba para los primeros 100 numeros, la funcion deberia devolver 5050 */
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 
 public class ej2 {
 

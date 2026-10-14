@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que cuente la cantidad de dígitos de un número entero positivo.
 
 Este problema puede resolverse recursivamente porque la cantidad de dígitos de un número es 1 más la cantidad de dígitos del número que queda al quitarle el último dígito. Quitar el último dígito equivale a hacer una división entera por 10. Por ejemplo, `1234 / 10 = 123`, y `123` tiene un dígito menos que `1234`. Es decir, `contarDigitos(n) = 1 + contarDigitos(n / 10)`.

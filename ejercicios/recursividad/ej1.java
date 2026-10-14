@@ -17,7 +17,7 @@ El resultado debe mostrarse en el formato esperado por el ejercicio, por ejemplo
 La lógica debe ser reutilizable dentro de la clase o método del ejercicio.
 La solución debe ser comprensible y mantener la composición recursiva del problema.*/
 
-package ejercicios.guia2;
+package ejercicios.recursividad;
 
 import java.math.BigInteger;
 import java.util.Scanner;

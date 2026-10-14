@@ -3,7 +3,7 @@ mergeSORT este metodo divide sin pivote, hasta que
 no puede dividir mas, y luego recursivamente se va fusionando de tal
  modo que el vector queda completamente ordenado
   con complejidad (n log n) */
-package ejercicios.guia3;
+package ejercicios.ordenamientos;
 
 import java.util.Arrays;
 

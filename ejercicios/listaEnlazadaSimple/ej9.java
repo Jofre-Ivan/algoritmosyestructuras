@@ -23,7 +23,7 @@ Comentá el código en español. En el main armá la lista 10 -> 20 -> 30 -> 40,
 
 ademas pone todo este largo propm como comentario al principio, no resumas el promp ponelo entero
 */
-package ejercicios.guia5;
+package ejercicios.listaEnlazadaSimple;
 
 public class ej9 {
 	private static class Nodo {

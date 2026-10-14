@@ -5,7 +5,7 @@ cada coincidencia sin modificar la lista ni cortar al hallar la primera. Probar
 valores repetidos, inexistentes, una lista con todos los valores iguales y una
 lista vacía.
 */
-package ejercicios.guia5;
+package ejercicios.listaEnlazadaSimple;
 
 public class ej8 {
 	private static class Nodo {

@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que invierta un `String`.
 
 Este problema puede resolverse recursivamente porque invertir una palabra equivale a invertir todo lo que viene después del primer carácter y colocar ese primer carácter al final. Por ejemplo, para `"hola"`: el primer carácter es `'h'`, el resto es `"ola"`, y `invertir("hola") = invertir("ola") + 'h'`. Es decir, `invertir(s) = invertir(s.substring(1)) + s.charAt(0)`.

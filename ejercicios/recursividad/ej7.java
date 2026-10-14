@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que calcule la suma de los dígitos de un número entero positivo.
 
 Este problema puede resolverse recursivamente porque la suma de los dígitos de un número es su último dígito más la suma de los dígitos del número que queda al quitarlo. El último dígito se obtiene con el módulo (`n % 10`) y el número sin ese dígito se obtiene con la división entera (`n / 10`). Por ejemplo, para `1234`: `1234 % 10 = 4` y `1234 / 10 = 123`, así que `sumaDigitos(1234) = 4 + sumaDigitos(123)`. Es decir, `sumaDigitos(n) = (n % 10) + sumaDigitos(n / 10)`.

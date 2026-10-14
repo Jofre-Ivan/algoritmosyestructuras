@@ -1,4 +1,5 @@
-package ejercicios.guia2;
+package ejercicios.recursividad;
+
 /*Quiero implementar en Java una función recursiva que determine si una palabra es un palíndromo.
 
 Este problema puede resolverse recursivamente porque una palabra es un palíndromo si su primer y su último carácter son iguales y, además, lo que queda en el medio también es un palíndromo. Por ejemplo, `"neuquen"` es palíndromo porque `'n' == 'n'` y `"euque"` también lo es, que a su vez cumple `'e' == 'e'` y `"uqu"` es palíndromo, y así sucesivamente. Es decir, `esPalindromo(s) = (s.charAt(0) == s.charAt(s.length() - 1)) && esPalindromo(s.substring(1, s.length() - 1))`.
